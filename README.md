@@ -1,7 +1,7 @@
 
 ```json
 {
-  "skills": ["idk man"]
+  "skills": [""]
 }
 ```
 
